@@ -62,6 +62,7 @@ const Header = () => {
             height={40}
             layout="fixed"
             className="rounded-full cursor-pointer"
+            alt=""
           />
         ) : null}
 

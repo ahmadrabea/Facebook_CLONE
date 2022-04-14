@@ -1,6 +1,6 @@
 import react, { useState } from "react";
 import Head from "next/head";
-import Header from "../components/header";
+import Header from "../components/Header";
 import { getSession, signIn } from "next-auth/react";
 import LogIn from "../components/LogIn";
 import LeftSideBar from "../components/LeftSideBar";
